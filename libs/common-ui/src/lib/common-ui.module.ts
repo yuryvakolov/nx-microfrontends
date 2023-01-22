@@ -1,8 +1,6 @@
 import { NgModule } from '@angular/core';
 import { CommonModule } from '@angular/common';
-import { ButtonComponent } from './button/button.component';
 import { CheckboxComponent } from './checkbox/checkbox.component';
-import { InputComponent } from './input/input.component';
 import { SelectComponent } from './select/select.component';
 import { TooltipComponent } from './tooltip/tooltip.component';
 import { TableComponent } from './table/table.component';
@@ -29,9 +27,7 @@ import { FormBuilderComponent } from './form-builder/form-builder.component';
 @NgModule({
   imports: [CommonModule],
   declarations: [
-    ButtonComponent,
     CheckboxComponent,
-    InputComponent,
     SelectComponent,
     TooltipComponent,
     TableComponent,
@@ -56,9 +52,7 @@ import { FormBuilderComponent } from './form-builder/form-builder.component';
     FormBuilderComponent,
   ],
   exports: [
-    ButtonComponent,
     CheckboxComponent,
-    InputComponent,
     SelectComponent,
     TooltipComponent,
     TableComponent,

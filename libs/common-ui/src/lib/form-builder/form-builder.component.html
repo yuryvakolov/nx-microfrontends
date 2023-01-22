@@ -1,1 +1,15 @@
-<p>form-builder works!</p>
+<div class="wrapper">
+
+  <div class="header">
+    <ng-content select="[header]">
+    </ng-content>
+  </div>
+
+  <ng-content></ng-content>
+
+  <div class="footer">
+    <ng-content select="[footer]"></ng-content>
+  </div>
+
+</div>
+

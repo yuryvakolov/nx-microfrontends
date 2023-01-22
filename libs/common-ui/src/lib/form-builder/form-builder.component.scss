@@ -1,0 +1,20 @@
+.wrapper {
+  padding: 20px;
+  box-sizing: border-box;
+  border: 1px solid #aaa;
+  border-radius: 8px;
+
+  display: flex;
+  flex-direction: column;
+  margin: 10px;
+
+  .header {
+    padding-bottom: 20px;
+  }
+
+  .footer {
+    padding-top: 20px;
+    display: flex;
+    justify-content: end;
+  }
+}

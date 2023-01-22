@@ -1,0 +1,5 @@
+<svg width="13" height="16" viewBox="0 0 13 16" fill="none" xmlns="http://www.w3.org/2000/svg">
+<circle cx="6.5" cy="10.5" r="1" fill="black" stroke="black"/>
+<path fill="none" fill-rule="evenodd" d="M0.75 8C0.75 7.30964 1.30964 6.75 2 6.75H11C11.6904 6.75 12.25 7.30964 12.25 8V14C12.25 14.6904 11.6904 15.25 11 15.25H2C1.30964 15.25 0.75 14.6904 0.75 14V8Z" stroke="black" stroke-width="1.5"/>
+<path fill="none" fill-rule="evenodd" d="M3 6V5.98978V4.33333C3 2.49238 4.567 1 6.5 1C8.433 1 10 2.49238 10 4.33333V5.98657V6" stroke="black" stroke-width="1.5"/>
+</svg>

@@ -1,0 +1,12 @@
+{
+  "name": "rosbank",
+  "version": "1.0.0",
+  "description": "",
+  "main": "main.ts",
+  "peerDependencies": {
+    "file-saver": "^2.0.5"
+  },
+  "keywords": [],
+  "author": "Yury Vakolov",
+  "license": "ISC"
+}

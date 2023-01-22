@@ -5,4 +5,6 @@ import { Component } from '@angular/core';
   templateUrl: './form-builder.component.html',
   styleUrls: ['./form-builder.component.scss'],
 })
-export class FormBuilderComponent {}
+export class FormBuilderComponent {
+
+}

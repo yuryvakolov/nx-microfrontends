@@ -1,0 +1,10 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="9" height="9" viewBox="0 0 9 9">
+    <g>
+        <g>
+            <g transform="translate(-527 -232) translate(527 232)">
+                <rect width="1.8" height="8.47" x="3.63" rx=".605"/>
+                <rect width="1.8" height="8.47" x="3.63" rx=".605" transform="rotate(-90 4.53 4.235)"/>
+            </g>
+        </g>
+    </g>
+</svg>

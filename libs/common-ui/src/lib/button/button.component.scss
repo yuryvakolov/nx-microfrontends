@@ -1,0 +1,11 @@
+button {
+  $color: #aaa;
+  padding: 10px;
+  border-radius: 4px;
+  border: 1px solid $color;
+
+  &:hover {
+    background-color: darken($color, 5%);
+    cursor: pointer;
+  }
+}

@@ -74,8 +74,5 @@
       "style": "scss"
     }
   },
-  "defaultProject": "rosbank",
-  "cli": {
-    "packageManager": "yarn"
-  }
+  "defaultProject": "rosbank"
 }
