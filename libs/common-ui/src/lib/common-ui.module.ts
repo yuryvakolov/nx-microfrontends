@@ -23,9 +23,10 @@ import { CarouselComponent } from './carousel/carousel.component';
 import { AvatarComponent } from './avatar/avatar.component';
 import { ChipComponent } from './chip/chip.component';
 import { FormBuilderComponent } from './form-builder/form-builder.component';
+import {ReactiveFormsModule} from "@angular/forms";
 
 @NgModule({
-  imports: [CommonModule],
+  imports: [CommonModule, ReactiveFormsModule],
   declarations: [
     CheckboxComponent,
     SelectComponent,
